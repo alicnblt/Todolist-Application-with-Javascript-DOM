@@ -37,6 +37,7 @@ body {
 }
 
 .header {
+    margin-top: 40px;
     padding: 30px 20px;
     color: rgb(231, 0, 0);
     text-align: center;
